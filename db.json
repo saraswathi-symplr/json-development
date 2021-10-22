@@ -2,14 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "userProfile": [
-    {
-      "id": 1,
       "name": "Antony",
       "email": "Antony@gmail.com.",
-      "phone": "9876543210"   
-    }]
+      "phone": "9876543210"
+    }
+  ]
 }
