@@ -2,8 +2,21 @@
   "uprofile": [
     {
       "id": 1,
-      "name": "Antony",
-      "email": "Antony@gmail.com",
+      "name": "Nagendra",
+      "email": "Nagendra@gmail.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": 2,
+      "name": "Saraswathi",
+      "email": "Saraswathi@gmail.com",
+      "phone": "9876543210"
+    },
+    
+    {
+      "id": 3,
+      "name": "YourTestName",
+      "email": "YourTestName@gmail.com",
       "phone": "9876543210"
     }
   ]
